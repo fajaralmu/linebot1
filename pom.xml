@@ -25,7 +25,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
-					<mainClass>com.fajar.linebot.app.EchoApplicationTest</mainClass>
+					<mainClass>com.fajar.linebot.app.MySimpleLineBot</mainClass>
 				</configuration>
 
 				<executions>
