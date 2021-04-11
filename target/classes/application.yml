@@ -24,6 +24,4 @@ line.bot:
 #
 #logging.level:
 #   com.linecorp.bot.client.wire: INFO
-
-server:
-  port : 1234
+ 
